@@ -9,6 +9,6 @@ name_hash.each do |key, number|
   if number<=smallest_value
     smallest_value=number
   end
-name_hash.key(smallest_value)
 end
+name_hash.key(smallest_value)
 end
